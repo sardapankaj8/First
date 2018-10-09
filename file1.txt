@@ -2,7 +2,7 @@ hii
 this is first file
 now i am updating it
 thanks
-
+new line added- 1
 now adding extra line
 
 this is the final commit in master
