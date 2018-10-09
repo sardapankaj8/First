@@ -3,6 +3,8 @@ this is first file
 now i am updating it
 thanks
 new line added- 1
+new line added- 2
+new line added- 3
 now adding extra line
 
 this is the final commit in master
